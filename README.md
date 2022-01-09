@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">I am a .net junior developer living in Istanbul.</h3>
+<h3 align="center">I am a .net junior developer and living in Istanbul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilallgunaydin&label=Profile%20views&color=0e75b6&style=flat" alt="bilallgunaydin" /> </p>
 
