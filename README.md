@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">I am a .net junior developer and living in Istanbul.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilallgunaydin&label=Profile%20views&color=0e75b6&style=flat" alt="bilallgunaydin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilallgunaydin" alt="bilallgunaydin" /></a> </p>
+<h3 align="center">I am a .net junior developer and I living in Istanbul.</h3>
 
 - 💬 Ask me about **C#, sql, maybe .net core :D**
 
@@ -23,6 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilallgunaydin&show_icons=true&locale=en&layout=compact" alt="bilallgunaydin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilallgunaydin&show_icons=true&locale=en" alt="bilallgunaydin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilallgunaydin&" alt="bilallgunaydin" /></p>
-
