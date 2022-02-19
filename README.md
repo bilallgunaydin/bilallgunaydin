@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">I am a .Net Junior Developer and I living in Istanbul.</h3>
+<h3 align="center">I am a .Net Junior Developer and I am living in Istanbul.</h3>
 
 - 💬 Ask me about **C#, sql, maybe .net core :D**
 
