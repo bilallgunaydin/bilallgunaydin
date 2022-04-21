@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">I am a .net junior developer and I living in Istanbul.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilallgunaydin&label=Profile%20views&color=0e75b6&style=flat" alt="bilallgunaydin" /> </p>
-
 - 💬 Ask me about **C#, sql, .Net Core**
 
 - 📫 How to reach me **bilallgunaydin@gmail.com**
@@ -21,3 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilallgunaydin&show_icons=true&locale=en&layout=compact" alt="bilallgunaydin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilallgunaydin&show_icons=true&locale=en" alt="bilallgunaydin" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilallgunaydin&label=Profile%20views&color=0e75b6&style=flat" alt="bilallgunaydin" /> </p>
