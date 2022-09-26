@@ -3,9 +3,7 @@
 
 - 💬 Ask me about **C#, SQL, T-SQL, Java, Js, Selenium, Jira, TestRail, Postman, Cucumber, Appium**
 
-- 📫 How to reach me **bilallgunaydin@gmail.com**
-
-- **https://www.linkedin.com/in/bilalgunaydin/**
+- 📫 How to reach me **bilallgunaydin@gmail.com** - **https://www.linkedin.com/in/bilalgunaydin/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
