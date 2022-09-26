@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilallgunaydin" alt="bilallgunaydin" /></a> </p>
 
-- 💬 Ask me about **Ask me about C#, SQL, T-SQL, Java, Js, Selenium, Jira, TestRail, Postman, Cucumber, Appium**
+- 💬  **Ask me about C#, SQL, T-SQL, Java, Js, Selenium, Jira, TestRail, Postman, Cucumber, Appium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
