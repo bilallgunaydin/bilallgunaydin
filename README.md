@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">I am a .net junior developer and I living in Istanbul.</h3>
 
-- 💬 Ask me about **C#, sql, .Net Core**
+- 💬 Ask me about **C#, SQL, T-SQL, Java, Js, Selenium, Jira, TestRail, Postman, Cucumber, Appium**
 
 - 📫 How to reach me **bilallgunaydin@gmail.com**
 
