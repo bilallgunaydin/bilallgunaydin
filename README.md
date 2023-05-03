@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilallgunaydin&show_icons=true&locale=en&layout=compact" alt="bilallgunaydin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilallgunaydin&show_icons=true&locale=en" alt="bilallgunaydin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilallgunaydin&" alt="bilallgunaydin" /></p>
